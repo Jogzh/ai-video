@@ -11,7 +11,7 @@
 - Python 3
 - Node.js
 - FFmpeg
-- Remotion：计划用于后续模板化视频生成
+- Remotion：视频编排、动画和预览
 
 ## 视频制作规范
 
@@ -25,3 +25,13 @@
 - `output/`：本地生成的视频（默认不提交）
 - `scripts/`：环境检查和批处理脚本
 - `.agents/skills/`：Remotion 官方 Agent Skills
+
+## 已有视频项目
+
+| 项目 | 内容 | 启动预览 |
+| --- | --- | --- |
+| [entropy-short](entropy-short/README.md) | 14.4 秒竖版时间与熵短片，含声音设计 | 在项目目录运行 `npm install`、`npm run dev` |
+| [entropy-time-arrow](entropy-time-arrow/README.md) | 74 秒横版时间箭头短片 | 在项目目录运行 `npm install`、`npm run studio` |
+| [stand-steady](stand-steady/README.md) | 28 秒横版植物意象短片 | 在项目目录运行 `npm install`、`npm run studio` |
+
+源码、配置及运行必需的本地资源随仓库保存。依赖、导出视频、QA 截图和可再生成的音频中间文件不进入 Git。各项目的尺寸、字体、检查与导出方式见对应 README。

@@ -1,5 +1,7 @@
 .DS_Store
 .env
+.env.*
+!.env.example
 .venv/
 node_modules/
 __pycache__/
@@ -8,3 +10,15 @@ output/*
 !output/.gitkeep
 
 .idea/
+
+# Local render output and visual checks for individual video projects.
+**/qa/
+**/out/
+**/dist/
+**/output/
+!output/.gitkeep
+
+# Regenerable sound-design and narration intermediates.
+entropy-short/public/audio/ambient.wav
+entropy-short/public/audio/effects.wav
+entropy-short/public/audio/voice-[0-9]*.wav

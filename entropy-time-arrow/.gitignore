@@ -1,0 +1,6 @@
+node_modules/
+qa/frames/
+qa/landscape/frames/
+qa/landscape/refined/
+qa/contact-initial.png
+.DS_Store

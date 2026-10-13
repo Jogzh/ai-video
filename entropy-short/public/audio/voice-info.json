@@ -1,0 +1,37 @@
+{
+  "provider": "macOS local TTS",
+  "voice": "Eddy zh-CN",
+  "duration": 14.4,
+  "slots": [
+    {
+      "text": "时间，为什么只朝一个方向走？",
+      "start": 0.35,
+      "end": 3.0355000000000003,
+      "rawDuration": 2.705208333333333,
+      "tempoAdjustment": 1.0
+    },
+    {
+      "text": "杯子碎了，不会自己拼回去。",
+      "start": 3.5,
+      "end": 6.026104166666666,
+      "rawDuration": 2.5462291666666665,
+      "tempoAdjustment": 1.0
+    },
+    {
+      "text": "这不是惩罚，是概率。",
+      "start": 6.9,
+      "end": 8.860833333333334,
+      "rawDuration": 1.9805208333333333,
+      "tempoAdjustment": 1.0
+    },
+    {
+      "text": "所以此刻，才值得被记住。",
+      "start": 10.4,
+      "end": 13.069583333333334,
+      "rawDuration": 2.6899375,
+      "tempoAdjustment": 1.0
+    }
+  ],
+  "masterPeak": 0.6580806966691138,
+  "masterRms": 0.07666392997621739
+}
