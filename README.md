@@ -11,6 +11,7 @@
 - Python 3
 - Node.js
 - FFmpeg
+- Remotion：计划用于后续模板化视频生成
 
 ## 目录
 
@@ -19,3 +20,4 @@
 - `assets/`：素材
 - `output/`：本地生成的视频（默认不提交）
 - `scripts/`：环境检查和批处理脚本
+- `.agents/skills/`：Remotion 官方 Agent Skills
