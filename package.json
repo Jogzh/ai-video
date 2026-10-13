@@ -1,0 +1,9 @@
+{
+  "name": "ai-video",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Vibe知识大赏 content research and video production workspace",
+  "scripts": {
+    "check:env": "bash scripts/check_env.sh"
+  }
+}
