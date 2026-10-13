@@ -63,3 +63,7 @@
 - `remotion-upgrade`
 
 这些是工作流知识，不等同于 Remotion npm 运行时；开始写视频代码时仍需在项目中安装对应 npm 包。
+
+## 使用许可提醒
+
+Remotion 当前采用分层许可：个人、3 人以内小团队、非营利组织和评估阶段可按其 Free License 使用；更大规模的营利组织需要单独的 Company License。真正用于商业化账号前，应按使用主体和规模复核官方许可。来源：<https://github.com/remotion-dev/remotion/blob/main/LICENSE.md>。
